@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johan-Liebert1&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Johan-Liebert1&layout=compact&langs_count=6&hide=Jupyter%20Notebook,HTML,CSS&theme=dark" />
 </div>
